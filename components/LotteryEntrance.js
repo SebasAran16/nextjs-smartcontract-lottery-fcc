@@ -110,6 +110,7 @@ export default function LotteryEntrance() {
             ) : (
                 <div>No Raffle Address detected!</div>
             )}
+            <div>Trying Stufff!</div>
         </div>
     );
 }
